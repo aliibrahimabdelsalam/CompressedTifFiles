@@ -17,7 +17,7 @@ public class App {
         BufferedImage image = ImageIO.read(originalFile);
 
         // Convert to black-and-white (1-bit) image
-        BufferedImage binaryImage = convertToBinary(image);
+        
 
         // Get an ImageWriter for the TIFF format
         Iterator<ImageWriter> writers = ImageIO.getImageWritersByFormatName("tiff");
@@ -35,7 +35,7 @@ public class App {
         File tempFile = File.createTempFile("compressed", ".tiff");
         try (ImageOutputStream ios = ImageIO.createImageOutputStream(tempFile)) {
             writer.setOutput(ios);
-            writer.write(null, new javax.imageio.IIOImage(binaryImage, null, null), writeParam);
+            writer.write(null, new javax.imageio.IIOImage(image, null, null), writeParam);
         }
 
         // Clean up the writer
@@ -52,36 +52,6 @@ public class App {
         }
     }
 
-    // Convert an image to a 1-bit black-and-white (bi-level) image by thresholding
-    private static BufferedImage convertToBinary(BufferedImage image) {
-        int width = image.getWidth();
-        int height = image.getHeight();
-
-        // Create a new black-and-white (1-bit) image
-        BufferedImage binaryImage = new BufferedImage(width, height, BufferedImage.TYPE_BYTE_BINARY);
-
-        // Threshold the image (simple thresholding to convert to black-and-white)
-        for (int y = 0; y < height; y++) {
-            for (int x = 0; x < width; x++) {
-                int rgb = image.getRGB(x, y);
-                int red = (rgb >> 16) & 0xFF;
-                int green = (rgb >> 8) & 0xFF;
-                int blue = rgb & 0xFF;
-
-                // Calculate grayscale value (average of red, green, and blue channels)
-                int gray = (red + green + blue) / 3;
-
-                // Apply a threshold to create a black-and-white effect
-                if (gray > 128) {
-                    binaryImage.setRGB(x, y, 0xFFFFFF); // White
-                } else {
-                    binaryImage.setRGB(x, y, 0x000000); // Black
-                }
-            }
-        }
-
-        return binaryImage;
-    }
 
     // Recursively compress all TIFF files in the given directory and subdirectories
     public static void compressTiffFilesInDirectory(File directory) {
