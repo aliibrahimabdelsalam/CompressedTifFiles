@@ -1,11 +1,15 @@
 package com.company;
 
 import com.twelvemonkeys.imageio.plugins.tiff.TIFFImageWriteParam;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.nio.file.*;
+import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
+import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 import javax.imageio.ImageIO;
@@ -22,13 +26,60 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
 public class App {
+	    static List<Shipment> shipments = new ArrayList<>();
 
-   
+	 static class Shipment {
+	        String name;
+	        int numberOfPapers;
+	        boolean successfulCompressed;
+	        String jobSerial; 
+
+	        public Shipment(String name, int numberOfPapers, boolean successfulCompressed,String jobSerial) {
+	            this.name = name;
+	            this.numberOfPapers = numberOfPapers;
+	            this.successfulCompressed = successfulCompressed;
+	            this.jobSerial=jobSerial;
+	        }
+	    }
+	 public static void createExcelReport(String excelFilePath) {
+	        Workbook workbook = new XSSFWorkbook();
+	        Sheet sheet = workbook.createSheet("Shipments");
+System.out.println("hello");
+	        // Create the header row
+	        Row headerRow = sheet.createRow(0);
+	        headerRow.createCell(0).setCellValue("ShipmentName");
+	        headerRow.createCell(1).setCellValue("Number of Papers");
+	        headerRow.createCell(2).setCellValue("JobSerial");
+	        headerRow.createCell(3).setCellValue("Successfully Compressed");
+	        System.out.println("hello2");
+	        int rowNum = 1;
+	        for (Shipment shipment : shipments) {
+	            Row row = sheet.createRow(rowNum++);
+	            row.createCell(0).setCellValue(shipment.name);
+	            row.createCell(1).setCellValue(shipment.numberOfPapers);
+	            row.createCell(2).setCellValue(shipment.jobSerial);
+	            row.createCell(3).setCellValue(shipment.successfulCompressed ? "Yes" : "No");
+	        }
+
+	        // Write the output to a file
+	        try (FileOutputStream fileOut = new FileOutputStream(excelFilePath)) {
+	            workbook.write(fileOut);
+	        } catch (IOException e) {
+	        	System.out.println("error :: "+e.getMessage());
+	            e.printStackTrace();
+	        }
+
+	        // Closing the workbook
+	        try {
+	            workbook.close();
+	        } catch (IOException e) {
+	            e.printStackTrace();
+	        }
+	    }
 	public static void compressTiffInPlace(String filePath) throws IOException {
 	    File originalFile = new File(filePath);
 	    BufferedImage image;
 	    IIOMetadata imageMetadata;
-
 	    // Read the image and its metadata
 	    try (ImageInputStream inputStream = ImageIO.createImageInputStream(originalFile)) {
 	        Iterator<ImageReader> readers = ImageIO.getImageReadersByFormatName("tiff");
@@ -84,9 +135,11 @@ public class App {
     // Recursively compress TIFF files in the provided directory
     public static void compressTiffFilesInDirectory(File directory) {
         File[] files = directory.listFiles();
+        int count =0;
         if (files != null) {
             for (File file : files) {
                 if (file.isDirectory()) {
+                	
                     compressTiffFilesInDirectory(file); // Go deeper into the subdirectories
                 } else if (file.getName().toLowerCase().endsWith(".tif") || file.getName().toLowerCase().endsWith(".tiff")) {
                     try {
@@ -139,11 +192,15 @@ public class App {
         if (files != null) {
             for (File file : files) {
                 if (file.isDirectory() && file.getName().startsWith("S")) {
+                	System.out.println("file.getName().startsWith(\"S\")"+file.getName().startsWith("S"));
                     File[] subFiles = file.listFiles();
+                    System.out.println("file :: "+file.getName() );
                     if (subFiles != null) {
                         for (File subFile : subFiles) {
                             if (subFile.isDirectory() && subFile.getName().startsWith("2")) {
-                                // Compress all TIFF files in the "2" subdirectories (including the BCN subdirectories)
+                            	int numberOfPapers = countTiffFiles(subFile);
+                                boolean success = false;      
+                                System.out.println("job :: "+subFile.getName().getClass());
                                 compressTiffFilesInDirectory(subFile);
 
                                 // After compressing TIFFs, compress the "2" directory itself into a ZIP file
@@ -152,10 +209,12 @@ public class App {
 
                                     // After compression, delete the original "2" directory
                                     deleteDirectory(subFile);
+                                    success = true;
                                 } catch (IOException e) {
                                     System.err.println("Error compressing or deleting directory: " + subFile.getAbsolutePath());
                                     e.printStackTrace();
                                 }
+                                shipments.add(new Shipment(file.getName(), numberOfPapers, success,subFile.getName()));
                             }
                         }
                     }
@@ -163,7 +222,20 @@ public class App {
             }
         }
     }
-
+    public static int countTiffFiles(File directory) {
+        File[] files = directory.listFiles();
+        int count = 0;
+        if (files != null) {
+            for (File file : files) {
+                if (file.isDirectory()) {
+                    count += countTiffFiles(file); // Recursively count TIFF files in subdirectories
+                } else if (file.getName().toLowerCase().endsWith(".tif") || file.getName().toLowerCase().endsWith(".tiff")) {
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
     // Read the root directory path from an XML configuration file
     public static String readPathFromXml(String xmlFilePath) {
         String path = null;
@@ -193,6 +265,9 @@ public class App {
                 File rootDirectory = new File(rootDirectoryPath);
                 if (rootDirectory.exists() && rootDirectory.isDirectory()) {
                     compressTiffAndThenZipDirectories(rootDirectory);
+                    createExcelReport("shipment_report.xlsx");
+                    System.out.println(new File("shipment_report.xlsx").getAbsolutePath());
+
                     System.out.println("Compression and deletion of original directories completed!");
                 } else {
                     System.out.println("The provided path is not a valid directory.");
