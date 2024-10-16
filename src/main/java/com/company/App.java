@@ -1,6 +1,9 @@
 package com.company;
 
 import com.twelvemonkeys.imageio.plugins.tiff.TIFFImageWriteParam;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.awt.image.BufferedImage;
@@ -27,7 +30,9 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 public class App {
 	    static List<Shipment> shipments = new ArrayList<>();
-
+	    private static final Logger logger = LogManager.getLogger(App.class);
+	    static int countOfPaperCompressed=0;
+	    static int countOfPaperSkipped=0;
 	 static class Shipment {
 	        String name;
 	        int numberOfPapers;
@@ -44,14 +49,12 @@ public class App {
 	 public static void createExcelReport(String excelFilePath) {
 	        Workbook workbook = new XSSFWorkbook();
 	        Sheet sheet = workbook.createSheet("Shipments");
-System.out.println("hello");
 	        // Create the header row
 	        Row headerRow = sheet.createRow(0);
 	        headerRow.createCell(0).setCellValue("ShipmentName");
 	        headerRow.createCell(1).setCellValue("Number of Papers");
 	        headerRow.createCell(2).setCellValue("JobSerial");
 	        headerRow.createCell(3).setCellValue("Successfully Compressed");
-	        System.out.println("hello2");
 	        int rowNum = 1;
 	        for (Shipment shipment : shipments) {
 	            Row row = sheet.createRow(rowNum++);
@@ -66,6 +69,7 @@ System.out.println("hello");
 	            workbook.write(fileOut);
 	        } catch (IOException e) {
 	        	System.out.println("error :: "+e.getMessage());
+	        	logger.error(e.getMessage());
 	            e.printStackTrace();
 	        }
 
@@ -97,7 +101,9 @@ System.out.println("hello");
 	        reader.dispose();
 	    }
 	    if (image.getColorModel().getPixelSize() != 1) {
-	        System.out.println("Skipping file (not 1-bit): " + filePath);
+//	        System.out.print/ln("Skipping file (not 1-bit): " + filePath);
+	        logger.info("Skipping file (not 1-bit): " + filePath);
+	        countOfPaperSkipped++;
 	        return; // Skip files that are not 1-bit
 	    }
 	    // Create a new writer for the compressed image
@@ -125,9 +131,11 @@ System.out.println("hello");
 	    // Replace the original file with the compressed file
 	    if (originalFile.delete()) {
 	        if (!tempFile.renameTo(originalFile)) {
+	        	logger.error("Failed to rename temporary file to the original file name."+originalFile);
 	            throw new IOException("Failed to rename temporary file to the original file name.");
 	        }
-	        System.out.println("Compressed successffully " + filePath);
+	        logger.info("Compressed Successfully " + filePath);
+	        countOfPaperCompressed++;
 	    } else {
 	        throw new IOException("Failed to delete the original file.");
 	    }
@@ -135,22 +143,36 @@ System.out.println("hello");
     // Recursively compress TIFF files in the provided directory
     public static void compressTiffFilesInDirectory(File directory) {
         File[] files = directory.listFiles();
-        int count =0;
+//        System.out.println(!directory.getName().startsWith("BCN")?"Job Name is "+directory.getName(): " ");
+        if(!directory.getName().startsWith("BCN")) {
+        	
+        	logger.info("Job Name is "+directory.getName());
+        countOfPaperCompressed=0;
+        countOfPaperSkipped=0;
+        }
         if (files != null) {
             for (File file : files) {
                 if (file.isDirectory()) {
-                	
+                	logger.info( !file.getName().contains("_")?"Batch Name is "+file.getName():"DocumentName is :: "+file.getName());
                     compressTiffFilesInDirectory(file); // Go deeper into the subdirectories
                 } else if (file.getName().toLowerCase().endsWith(".tif") || file.getName().toLowerCase().endsWith(".tiff")) {
                     try {
                         compressTiffInPlace(file.getAbsolutePath()); // Compress the TIFF file
+                        
                     } catch (IOException e) {
                         System.err.println("Error compressing file: " + file.getAbsolutePath());
+                        logger.error("Error compressing file: " + file.getAbsolutePath(), e.getMessage()); // Improved logging
+
                         e.printStackTrace();
                     }
                 }
             }
+            if(!directory.getName().startsWith("BCN")) {
+        	logger.info("Job Info :: "+directory.getName());
+            logger.info("count of papers is compressed :: "+countOfPaperCompressed);
+            logger.info("count of papers is Skipped :: "+countOfPaperSkipped);
         }
+       }
     }
 
     // Compress a directory (after TIFF compression) into a ZIP file
@@ -169,11 +191,13 @@ System.out.println("hello");
                     }
                 } catch (IOException e) {
                     System.err.println("Error adding file to ZIP: " + file.getAbsolutePath());
+                    logger.error("Error adding file to ZIP: " + file.getAbsolutePath());
                     e.printStackTrace();
                 }
             });
         }
         System.out.println("Directory compressed to ZIP: " + zipFileName);
+        logger.info("Directory compressed to ZIP: " + zipFileName);
     }
 
     // Delete a directory and all of its contents
@@ -192,25 +216,25 @@ System.out.println("hello");
         if (files != null) {
             for (File file : files) {
                 if (file.isDirectory() && file.getName().startsWith("S")) {
-                	System.out.println("file.getName().startsWith(\"S\")"+file.getName().startsWith("S"));
                     File[] subFiles = file.listFiles();
-                    System.out.println("file :: "+file.getName() );
+                    logger.info("Starting compression in Shipment :: "+file.getName());
                     if (subFiles != null) {
                         for (File subFile : subFiles) {
                             if (subFile.isDirectory() && subFile.getName().startsWith("2")) {
                             	int numberOfPapers = countTiffFiles(subFile);
                                 boolean success = false;      
-                                System.out.println("job :: "+subFile.getName().getClass());
                                 compressTiffFilesInDirectory(subFile);
 
                                 // After compressing TIFFs, compress the "2" directory itself into a ZIP file
                                 try {
+                                	
                                     compressDirectoryToZip(subFile);
 
                                     // After compression, delete the original "2" directory
                                     deleteDirectory(subFile);
                                     success = true;
                                 } catch (IOException e) {
+                                	logger.error("Error compressing or deleting directory: " + subFile.getAbsolutePath());
                                     System.err.println("Error compressing or deleting directory: " + subFile.getAbsolutePath());
                                     e.printStackTrace();
                                 }
@@ -264,9 +288,9 @@ System.out.println("hello");
             if (rootDirectoryPath != null) {
                 File rootDirectory = new File(rootDirectoryPath);
                 if (rootDirectory.exists() && rootDirectory.isDirectory()) {
+                	logger.info("Starting compression in directory: "+rootDirectory);
                     compressTiffAndThenZipDirectories(rootDirectory);
                     createExcelReport("shipment_report.xlsx");
-                    System.out.println(new File("shipment_report.xlsx").getAbsolutePath());
 
                     System.out.println("Compression and deletion of original directories completed!");
                 } else {

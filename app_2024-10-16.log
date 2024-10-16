@@ -1,0 +1,1400 @@
+23:12:12 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:12:12 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:13:08 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:13:08 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:13:46 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:13:46 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:13:46 [main] INFO  com.company.App - Job Name is 23567
+23:13:46 [main] INFO  com.company.App - Batch Name is BCN0000123445
+23:13:46 [main] INFO  com.company.App - Batch Name is BCN0000737951
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198001.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198002.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198003.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198004.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198005.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198006.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198007.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198008.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198009.tif
+23:13:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198010.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198011.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198012.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198013.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198014.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198015.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198016.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198017.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198018.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198019.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198020.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198021.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198022.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198023.tif
+23:13:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198024.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198025.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198026.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198027.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198028.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198029.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198030.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198031.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198032.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198033.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198034.tif
+23:13:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198035.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198036.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198037.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198038.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198039.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198040.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198041.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198042.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198043.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198044.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198045.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198046.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198047.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198048.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198049.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198050.tif
+23:13:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198051.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198052.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198053.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198054.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198055.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198056.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198057.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198058.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198059.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198060.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198061.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198062.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198063.tif
+23:13:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198064.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198065.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198066.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198067.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198068.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198069.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198070.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198071.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198072.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198073.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198074.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198075.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198076.tif
+23:13:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198077.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198078.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198079.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198080.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198081.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198082.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198083.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198084.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198085.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198086.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198087.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198088.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198089.tif
+23:13:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198090.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198091.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198092.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198093.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198094.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198095.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198096.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198097.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198098.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198099.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198100.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198101.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198102.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198103.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198104.tif
+23:13:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198105.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198106.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198107.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198108.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198109.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198110.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198111.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198112.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198113.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198114.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198115.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198116.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198117.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198118.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198119.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198120.tif
+23:13:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198121.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198122.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198123.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198124.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198125.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198126.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198127.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198128.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198129.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198130.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198131.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198132.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198133.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198134.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198135.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198136.tif
+23:13:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198137.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198138.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198139.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198140.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198141.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198142.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198143.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198144.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198145.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198146.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198147.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198148.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198149.tif
+23:13:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198150.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198151.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198152.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198153.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198154.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198155.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198156.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198157.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198158.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198159.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198160.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198161.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198162.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198163.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198164.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198165.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198166.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198167.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198168.tif
+23:13:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198169.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198170.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198171.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198172.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198173.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198174.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198175.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198176.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198177.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198178.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198179.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198180.tif
+23:13:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198181.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198182.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198183.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198184.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198185.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198186.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198187.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198188.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198189.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198190.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198191.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198192.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198193.tif
+23:13:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198194.tif
+23:14:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198195.tif
+23:14:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198196.tif
+23:14:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198197.tif
+23:14:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198198.tif
+23:14:00 [main] INFO  com.company.App - Job Info :: 23567
+23:14:00 [main] INFO  com.company.App - count of papers is compressed :: 198
+23:14:00 [main] INFO  com.company.App - count of papers is Skipped :: 0
+23:14:01 [main] INFO  com.company.App - Directory compressed to ZIP: E:\test\S23456\23567.zip
+23:14:02 [main] INFO  com.company.App - Job Name is 24235
+23:14:02 [main] INFO  com.company.App - Batch Name is BCN0000737934
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198001 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198001.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198002 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198002.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198003 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198003.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198004 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198004.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198005 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198005.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198006 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198006.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198007 - Copy.tif
+23:14:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198007.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198008 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198008.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198009 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198009.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198010 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198010.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198011 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198011.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198012 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198012.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198013 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198013.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198014 - Copy.tif
+23:14:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198014.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198015 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198015.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198016 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198016.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198017 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198017.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198018 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198018.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198019 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198019.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198020 - Copy.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198020.tif
+23:14:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198021 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198021.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198022 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198022.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198023 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198023.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198024 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198024.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198025 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198025.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198026 - Copy.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198026.tif
+23:14:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198027 - Copy.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198027.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198028 - Copy.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198028.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198029.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198030.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198031.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198032.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198033.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198034.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198035.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198036.tif
+23:14:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198037.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198038.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198039.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198040.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198041.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198042.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198043.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198044.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198045.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198046.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198047.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198048.tif
+23:14:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198049.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198050.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198051.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198052.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198053.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198054.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198055.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198056.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198057.tif
+23:14:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198058.tif
+23:15:28 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:15:28 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:15:28 [main] INFO  com.company.App - Job Name is 23567
+23:15:28 [main] INFO  com.company.App - Batch Name is BCN0000123445
+23:15:28 [main] INFO  com.company.App - 
+23:15:28 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008 - Copy.tif
+23:15:28 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008.tif
+23:15:28 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy - Copy.tif
+23:15:28 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy.tif
+23:15:28 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy - Copy.tif
+23:15:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy - Copy.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy - Copy.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016.tif
+23:15:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020.tif
+23:15:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022.tif
+23:15:32 [main] INFO  com.company.App - 
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy.tif
+23:15:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003.tif
+23:15:54 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:15:54 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:15:54 [main] INFO  com.company.App - Job Name is 23567
+23:15:54 [main] INFO  com.company.App - Batch Name is BCN0000123445
+23:15:54 [main] INFO  com.company.App - 
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008 - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy - Copy.tif
+23:15:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014.tif
+23:15:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy - Copy.tif
+23:15:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy.tif
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022.tif
+23:15:57 [main] INFO  com.company.App - 
+23:15:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006 - Copy - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006 - Copy.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006.tif
+23:15:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007 - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198008 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023 - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024 - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025 - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026 - Copy - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026 - Copy.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198027.tif
+23:15:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198028.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198029.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198030.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198031.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198032.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198033.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198034.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198035.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198036.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198037.tif
+23:16:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198038.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198039.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198040.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198041.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198042.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198043.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198044.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198045.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198046.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198047.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198048.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198049.tif
+23:16:01 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198050.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198051.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198052.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198053.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198054.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198055.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198056.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198057.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198058.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198059.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198060.tif
+23:16:02 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198061.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198062.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198063.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198064.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198065.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198066.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198067.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198068.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198069.tif
+23:16:03 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198070.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198071.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198072.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198073.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198074.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198075.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198076.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198077.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198078.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198079.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198080.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198081.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198082.tif
+23:16:04 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198083.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198084.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198085.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198086.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198087.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198088.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198089.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198090.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198091.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198092.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198093.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198094.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198095.tif
+23:16:05 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198096.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198097.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198098.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198099.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198100.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198101.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198102.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198103.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198104.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198105.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198106.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198107.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198108.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198109.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198110.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198111.tif
+23:16:06 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198112.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198113.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198114.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198115.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198116.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198117.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198118.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198119.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198120.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198121.tif
+23:16:07 [main] INFO  com.company.App - 
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198122.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198123.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198124.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198125.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198126.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198127.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198128.tif
+23:16:07 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198129.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198130.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198131.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198132.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198133.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198134.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198135.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198136.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198137.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198138.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198139.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198140.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198141.tif
+23:16:08 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198142.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198143.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198144.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198145.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198146.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198147.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198148.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198149.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198150.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198151.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198152.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198153.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198154.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198155.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198156.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198157.tif
+23:16:09 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198158.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198159.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198160.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198161.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198162.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198163.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198164.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198165.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198166.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198167.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198168.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198169.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198170.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198171.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198172.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198173.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198174.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198175.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198176.tif
+23:16:10 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198177.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198178.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198179.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198180.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198181.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198182.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198183.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198184.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198185.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198186.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198187.tif
+23:16:11 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198188.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198189.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198190.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198191.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198192.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198193.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198194.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198195.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198196.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198197.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198198.tif
+23:16:12 [main] INFO  com.company.App - Batch Name is BCN0000737951
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198001.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198002.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198003.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198004.tif
+23:16:12 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198005.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198006.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198007.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198008.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198009.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198010.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198011.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198012.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198013.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198014.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198015.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198016.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198017.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198018.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198019.tif
+23:16:13 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198020.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198021.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198022.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198023.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198024.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198025.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198026.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198027.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198028.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198029.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198030.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198031.tif
+23:16:14 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198032.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198033.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198034.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198035.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198036.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198037.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198038.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198039.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198040.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198041.tif
+23:16:15 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198042.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198043.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198044.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198045.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198046.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198047.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198048.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198049.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198050.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198051.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198052.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198053.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198054.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198055.tif
+23:16:16 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198056.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198057.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198058.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198059.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198060.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198061.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198062.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198063.tif
+23:16:17 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198064.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198065.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198066.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198067.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198068.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198069.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198070.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198071.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198072.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198073.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198074.tif
+23:16:18 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198075.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198076.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198077.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198078.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198079.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198080.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198081.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198082.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198083.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198084.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198085.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198086.tif
+23:16:19 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198087.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198088.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198089.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198090.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198091.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198092.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198093.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198094.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198095.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198096.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198097.tif
+23:16:20 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198098.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198099.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198100.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198101.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198102.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198103.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198104.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198105.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198106.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198107.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198108.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198109.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198110.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198111.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198112.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198113.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198114.tif
+23:16:21 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198115.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198116.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198117.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198118.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198119.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198120.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198121.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198122.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198123.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198124.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198125.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198126.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198127.tif
+23:16:22 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198128.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198129.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198130.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198131.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198132.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198133.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198134.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198135.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198136.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198137.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198138.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198139.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198140.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198141.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198142.tif
+23:16:23 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198143.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198144.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198145.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198146.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198147.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198148.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198149.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198150.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198151.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198152.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198153.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198154.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198155.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198156.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198157.tif
+23:16:24 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198158.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198159.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198160.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198161.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198162.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198163.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198164.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198165.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198166.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198167.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198168.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198169.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198170.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198171.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198172.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198173.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198174.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198175.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198176.tif
+23:16:25 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198177.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198178.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198179.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198180.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198181.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198182.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198183.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198184.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198185.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198186.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198187.tif
+23:16:26 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198188.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198189.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198190.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198191.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198192.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198193.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198194.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198195.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198196.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198197.tif
+23:16:27 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000737951\SC730198198.tif
+23:16:27 [main] INFO  com.company.App - Job Info :: 23567
+23:16:27 [main] INFO  com.company.App - count of papers is compressed :: 448
+23:16:27 [main] INFO  com.company.App - count of papers is Skipped :: 0
+23:16:29 [main] INFO  com.company.App - Directory compressed to ZIP: E:\test\S23456\23567.zip
+23:16:29 [main] INFO  com.company.App - Job Name is 24235
+23:16:29 [main] INFO  com.company.App - Batch Name is BCN0000737934
+23:16:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198001 - Copy.tif
+23:16:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198001.tif
+23:16:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198002 - Copy.tif
+23:16:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198002.tif
+23:16:29 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198003 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198003.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198004 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198004.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198005 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198005.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198006 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198006.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198007 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198007.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198008 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198008.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198009 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198009.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198010 - Copy.tif
+23:16:30 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198010.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198011 - Copy.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198011.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198012 - Copy.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198012.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198013 - Copy.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198013.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198014 - Copy.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198014.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198015 - Copy.tif
+23:16:31 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198015.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198016 - Copy.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198016.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198017 - Copy.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198017.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198018 - Copy.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198018.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198019 - Copy.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198019.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198020 - Copy.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198020.tif
+23:16:32 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198021 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198021.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198022 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198022.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198023 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198023.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198024 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198024.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198025 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198025.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198026 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198026.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198027 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198027.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198028 - Copy.tif
+23:16:33 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198028.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198029.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198030.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198031.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198032.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198033.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198034.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198035.tif
+23:16:34 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198036.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198037.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198038.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198039.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198040.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198041.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198042.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198043.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198044.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198045.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198046.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198047.tif
+23:16:35 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198048.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198049.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198050.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198051.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198052.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198053.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198054.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198055.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198056.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198057.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198058.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198059.tif
+23:16:36 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198060.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198061.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198062.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198063.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198064.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198065.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198066.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198067.tif
+23:16:37 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198068.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198069.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198070.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198071.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198072.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198073.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198074.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198075.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198076.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198077.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198078.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198079.tif
+23:16:38 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198080.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198081.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198082.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198083.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198084.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198085.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198086.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198087.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198088.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198089.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198090.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198091.tif
+23:16:39 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198092.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198093.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198094.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198095.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198096.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198097.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198098.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198099.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198100.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198101.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198102.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198103.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198104.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198105.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198106.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198107.tif
+23:16:40 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198108.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198109.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198110.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198111.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198112.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198113.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198114.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198115.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198116.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198117.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198118.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198119.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198120.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198121.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198122.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198123.tif
+23:16:41 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198124.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198125.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198126.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198127.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198128.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198129.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198130.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198131.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198132.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198133.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198134.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198135.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198136.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198137.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198138.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198139.tif
+23:16:42 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198140.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198141.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198142.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198143.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198144.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198145.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198146.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198147.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198148.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198149.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198150.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198151.tif
+23:16:43 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198152.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198153.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198154.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198155.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198156.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198157.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198158.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198159.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198160.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198161.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198162.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198163.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198164.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198165.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198166.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198167.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198168.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198169.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198170.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198171.tif
+23:16:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198172.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198173.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198174.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198175.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198176.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198177.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198178.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198179.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198180.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198181.tif
+23:16:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198182.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198183.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198184.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198185.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198186.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198187.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198188.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198189.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198190.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198191.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198192.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198193.tif
+23:16:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198194.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198195.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198196.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198197.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737934\SC730198198.tif
+23:16:47 [main] INFO  com.company.App - Batch Name is BCN0000737951
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198001.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198002.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198003.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198004.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198005.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198006.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198007.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198008.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198009.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198010.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198011.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198012.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198013.tif
+23:16:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198014.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198015.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198016.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198017.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198018.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198019.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198020.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198021.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198022.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198023.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198024.tif
+23:16:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198025.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198026.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198027.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198028.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198029.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198030.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198031.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198032.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198033.tif
+23:16:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198034.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198035.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198036.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198037.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198038.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198039.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198040.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198041.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198042.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198043.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198044.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198045.tif
+23:16:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198046.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198047.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198048.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198049.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198050.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198051.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198052.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198053.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198054.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198055.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198056.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198057.tif
+23:16:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198058.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198059.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198060.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198061.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198062.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198063.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198064.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198065.tif
+23:16:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198066.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198067.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198068.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198069.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198070.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198071.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198072.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198073.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198074.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198075.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198076.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198077.tif
+23:16:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198078.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198079.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198080.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198081.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198082.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198083.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198084.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198085.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198086.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198087.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198088.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198089.tif
+23:16:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198090.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198091.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198092.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198093.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198094.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198095.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198096.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198097.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198098.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198099.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198100.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198101.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198102.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198103.tif
+23:16:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198104.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198105.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198106.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198107.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198108.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198109.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198110.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198111.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198112.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198113.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198114.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198115.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198116.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198117.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198118.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198119.tif
+23:16:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198120.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198121.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198122.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198123.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198124.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198125.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198126.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198127.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198128.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198129.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198130.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198131.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198132.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198133.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198134.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198135.tif
+23:16:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198136.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198137.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198138.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198139.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198140.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198141.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198142.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198143.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198144.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198145.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198146.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198147.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198148.tif
+23:16:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198149.tif
+23:16:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198150.tif
+23:16:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198151.tif
+23:16:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\24235\BCN0000737951\SC730198152.tif
+23:17:43 [main] INFO  com.company.App - Starting compression in directory: E:\test
+23:17:43 [main] INFO  com.company.App - Starting compression in Shipment :: S23456
+23:17:43 [main] INFO  com.company.App - Job Name is 23567
+23:17:43 [main] INFO  com.company.App - Batch Name is BCN0000123445
+23:17:43 [main] INFO  com.company.App - DocumentName is :: BCN0000123445_001
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008 - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198008.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009 - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198009.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010 - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198010.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy - Copy.tif
+23:17:44 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011 - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198011.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012 - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198012.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013 - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198013.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014 - Copy.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198014.tif
+23:17:45 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015 - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198015.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016 - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198016.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017 - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198017.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy - Copy.tif
+23:17:46 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018 - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198018.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019 - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198019.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020 - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198020.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy - Copy.tif
+23:17:47 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198021.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_001\SC730198022.tif
+23:17:48 [main] INFO  com.company.App - DocumentName is :: BCN0000123445_002
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198001.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198002.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198003.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004 - Copy - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004 - Copy.tif
+23:17:48 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198004.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005 - Copy - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005 - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198005.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006 - Copy - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006 - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198006.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007 - Copy - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007 - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198007.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198008 - Copy - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023 - Copy - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023 - Copy.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198023.tif
+23:17:49 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024 - Copy - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024 - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198024.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025 - Copy - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025 - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198025.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026 - Copy - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026 - Copy.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198026.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198027.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198028.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198029.tif
+23:17:50 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198030.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198031.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198032.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198033.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198034.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198035.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198036.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198037.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198038.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198039.tif
+23:17:51 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198040.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198041.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198042.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198043.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198044.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198045.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198046.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198047.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198048.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198049.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198050.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198051.tif
+23:17:52 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198052.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198053.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198054.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198055.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198056.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198057.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198058.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198059.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198060.tif
+23:17:53 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198061.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198062.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198063.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198064.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198065.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198066.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198067.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198068.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198069.tif
+23:17:54 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198070.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198071.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198072.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198073.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198074.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198075.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198076.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198077.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198078.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198079.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198080.tif
+23:17:55 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198081.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198082.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198083.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198084.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198085.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198086.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198087.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198088.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198089.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198090.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198091.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198092.tif
+23:17:56 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198093.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198094.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198095.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198096.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198097.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198098.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198099.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198100.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198101.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198102.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198103.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198104.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198105.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198106.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198107.tif
+23:17:57 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198108.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198109.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198110.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198111.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198112.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198113.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198114.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198115.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198116.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198117.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198118.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198119.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198120.tif
+23:17:58 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_002\SC730198121.tif
+23:17:58 [main] INFO  com.company.App - DocumentName is :: BCN0000123445_003
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198122.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198123.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198124.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198125.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198126.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198127.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198128.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198129.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198130.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198131.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198132.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198133.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198134.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198135.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198136.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198137.tif
+23:17:59 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198138.tif
+23:18:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198139.tif
+23:18:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198140.tif
+23:18:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198141.tif
+23:18:00 [main] INFO  com.company.App - Compressed Successfully E:\test\S23456\23567\BCN0000123445\BCN0000123445_003\SC730198142.tif
